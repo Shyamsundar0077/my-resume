@@ -1,0 +1,33 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.header{
+    text-align: center;
+    
+}
+.summaryline{
+    border-bottom: 2px solid black;
+    
+}
+.projectsline{
+    border-bottom: 2px solid black;
+}
+.educationline{
+    border-bottom: 2px solid black;
+}
+.technicalline{
+    border-bottom: 2px solid black;
+
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+th,td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
